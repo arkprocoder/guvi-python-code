@@ -1,0 +1,14 @@
+1 .Take a inputs and Evaluate the expressions
+a)Take the Students name
+b)Take the student English marks
+maths, science, social, tamil, hindi while taking the inputs it should be in the range (0-100)
+c)calculate the % and print
+% <35% print fail and print the Grade 'F'
+% >=35% and <55% print just pass and print the Grade 'D'
+% >=55% and <60% print  pass and print the Grade 'C'
+% >=60% and <75% print  average and print the Grade 'B'
+% >=75% and <90% print  good and print the Grade 'A'
+% >=90% and <100% print  excellent  and print the Grade 'A+'
+
+
+note: if any subject marks is <35 print he is failed

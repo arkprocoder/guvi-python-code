@@ -1,0 +1,6 @@
+'''
+1) Write Python program to evaluatea)Arithmetic Operators, prompt the user for two numerical values and perform addition, subtraction, multiplication, division, and modulo operations on them.
+b) Comparison Operators, prompt the user for two numerical values and perform comparisons like greater than, less than, equal to, etc.
+c) Logical Operators, prompt the user for two boolean values and perform logical AND, OR, and NOT operations.
+d) Assignment Operators, demonstrate the use of various assignment operators on a single variable.
+'''

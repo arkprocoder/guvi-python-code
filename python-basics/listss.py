@@ -1,0 +1,26 @@
+mylist=[1,2,3,8,9,10,4,5,6,3,4,5]
+# print(mylist)
+# print(mylist[5])
+# print(mylist[3])
+# print(mylist[-1]) #5
+# print(mylist[-6]) #4
+# mylist.sort()
+# print(mylist)
+# mylist.append(11)
+# mylist.append(12)
+# mylist.append(13)
+# mylist.pop()
+# mylist.pop()
+# mylist.insert(3,7)
+# print(mylist)
+# print(mylist.count(5))
+# print(mylist.count(4))
+# print(mylist.count(10))
+# copy1=mylist.copy()
+# print('original list',mylist)
+# print('copy list',copy1)
+# copy1.clear()
+# print(copy1)
+# mylist.reverse()
+# print(mylist)
+

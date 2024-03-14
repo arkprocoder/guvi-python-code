@@ -1,0 +1,10 @@
+mylist=[1,2,3,9,8,7,4,5,10,15]
+print(mylist[1:6])
+print(mylist[4:9])
+print(mylist[:8])
+print(mylist[9:])
+print(mylist[4:5])
+print(mylist[4:-2])
+print(mylist[-6:-1])
+print(mylist[-8:-2])
+print(mylist[-5:])

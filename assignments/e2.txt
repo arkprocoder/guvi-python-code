@@ -1,0 +1,9 @@
+'''
+1. Write a program to validate a person can vote or not
+*take the age as input from the user
+if age is less than 18 print he cannot vote
+if age is greater than 18 print he can vote
+if age is greater than 90 print please stay at home
+if age is 18 than  print please make the voter id 
+
+'''
