@@ -23,4 +23,6 @@ mylist=[1,2,3,8,9,10,4,5,6,3,4,5]
 # print(copy1)
 # mylist.reverse()
 # print(mylist)
-
+# mylist=['a','A','c','C','d','f','g',1,2]
+# mylist.sort()
+# print(mylist)
